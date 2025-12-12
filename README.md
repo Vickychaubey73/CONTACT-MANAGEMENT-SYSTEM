@@ -1,7 +1,7 @@
 ## 📸 Screenshots
 
 ### 🖥️ Dashboard
-![Dashboard](Screenshot(380).png)
+![Dashboard](image1.png)
 
 ### ➕ Add Contact
 ![Add Contact](add_contact.png)
