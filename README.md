@@ -4,7 +4,7 @@
 ![Dashboard](image1.png)
 
 ### ➕ Add Contact
-![Add Contact](add_contact.png)
+![Add Contact](image2.png)
 
 ### 📊 Stats Window
 ![Stats](stats.png)
