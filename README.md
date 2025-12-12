@@ -1,3 +1,16 @@
+## 📸 Screenshots
+
+### 🖥️ Dashboard
+![Dashboard](screenshots/Screenshot(380).png)
+
+### ➕ Add Contact
+![Add Contact](screenshots/add_contact.png)
+
+### 📊 Stats Window
+![Stats](screenshots/stats.png)
+
+
+
 # 🧩 Data Engineer Project – Contact Data Management & ETL Pipeline (Python + AWS + MySQL + Tkinter)
 
 A **Data Engineering mini-project** demonstrating an **end-to-end data pipeline** with a simple user interface.  
@@ -40,14 +53,4 @@ along with a fully functional **Tkinter GUI app** to visualize and manage the da
 ├── requirements.txt                     # Project dependencies
 ├── README.md                            # Documentation
 └── screenshots/                         # Optional (UI preview)
-## 📸 Screenshots
-
-### 🖥️ Dashboard
-![Dashboard](screenshots/dashboard.png)
-
-### ➕ Add New Contact
-![Add Contact](screenshots/add_contact.png)
-
-### 📊 Stats Window
-![Stats](screenshots/stats.png)
 
