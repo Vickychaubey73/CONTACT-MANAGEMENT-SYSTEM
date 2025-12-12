@@ -1,13 +1,14 @@
 ## 📸 Screenshots
 
 ### 🖥️ Dashboard
-![Dashboard](screenshots/Screenshot(380).png)
+![Dashboard](Screenshot(380).png)
 
 ### ➕ Add Contact
-![Add Contact](screenshots/add_contact.png)
+![Add Contact](add_contact.png)
 
 ### 📊 Stats Window
-![Stats](screenshots/stats.png)
+![Stats](stats.png)
+
 
 
 
